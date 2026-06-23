@@ -26,5 +26,5 @@ An oracle database with tables for Patients, Doctors, Bills, Visits, and Diagnos
 
 9.  List visits and their diagnoses – Display each visit with patient name, doctor, and diagnosis name.
 
-10. Top doctors by total billed revenue – Rank doctors by total revenue gen erated.
+10. Top doctors by total billed revenue – Rank doctors by total revenue generated.
 
